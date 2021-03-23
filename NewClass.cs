@@ -6,5 +6,9 @@ namespace ConsoleApp2
 {
     class NewClass
     {
+        void funkcija()
+        {
+
+        }
     }
 }
