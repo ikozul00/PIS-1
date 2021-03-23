@@ -12,3 +12,4 @@ namespace ConsoleApp2
 }
 
 console.writeLine("Novo");
+//Iva unosi promjenu
