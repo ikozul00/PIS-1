@@ -7,10 +7,10 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Novo");
         }
     }
 }
 
-console.writeLine("Novo");
 //Iva unosi promjenu
 //Super program! 
